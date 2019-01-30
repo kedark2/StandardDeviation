@@ -1,0 +1,5 @@
+c:\users\kanel\documents\visual studio 2010\Projects\StandardDeviation\StandardDeviation\bin\Debug\StandardDeviation.exe
+c:\users\kanel\documents\visual studio 2010\Projects\StandardDeviation\StandardDeviation\bin\Debug\StandardDeviation.pdb
+c:\users\kanel\documents\visual studio 2010\Projects\StandardDeviation\StandardDeviation\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kanel\documents\visual studio 2010\Projects\StandardDeviation\StandardDeviation\obj\x86\Debug\StandardDeviation.exe
+c:\users\kanel\documents\visual studio 2010\Projects\StandardDeviation\StandardDeviation\obj\x86\Debug\StandardDeviation.pdb
